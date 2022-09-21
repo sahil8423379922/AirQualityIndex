@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 
 public interface JSONPlaceHolder {
 
-    @GET("posts")
+    @GET("?city=kanpur&country=india&key=b24bd2e5be42466d870896324c5bd82c")
     Call<List<Post>> getpost();
 }
