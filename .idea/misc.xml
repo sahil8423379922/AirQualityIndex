@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/AirQualityIndex/app/src/main/res/drawable/dropdownmenustyle.xml" value="0.196" />
         <entry key="..\:/Users/Sahil Jaiswal/AndroidStudioProjects/AirQualityIndex/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/drawable/bg_custom_seekbar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/bg_progress.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35268505079825835" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.19895833333333332" />
       </map>
     </option>
   </component>
